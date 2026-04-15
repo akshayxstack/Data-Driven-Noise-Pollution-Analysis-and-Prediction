@@ -1,4 +1,4 @@
-# 🚀 Urban Noise Level Prediction using Linear Regression
+# 🚀 Data-Driven Noise Pollution Analysis and Prediction
 
 This project focuses on predicting urban noise levels (in decibels) using environmental and traffic-related data. It follows a complete data science pipeline and uses a Linear Regression model for prediction.
 
