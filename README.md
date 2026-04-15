@@ -68,4 +68,4 @@ Urban noise pollution is a major concern in modern cities. This project aims to 
 
 ## ▶️ How to Run
 1. Clone the repository  
-https://github.com/akshayxstack/Urban-Noise-Level-Prediction/
+https://github.com/akshayxstack/Urban-Noise-Level-Prediction
